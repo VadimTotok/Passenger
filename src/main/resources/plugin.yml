@@ -1,0 +1,4 @@
+name: Passenger
+version: '${project.version}'
+main: spigot.passenger.Passenger
+api-version: 1.19
